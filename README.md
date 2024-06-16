@@ -11,5 +11,6 @@
   npm start
 
   Go to localhost:3000
+3000: Port
 
 ```  
